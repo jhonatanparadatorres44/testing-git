@@ -1,2 +1,2 @@
-# testing-git
+# Testing Git
 A repository to test git.
